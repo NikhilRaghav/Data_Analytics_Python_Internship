@@ -1,0 +1,15 @@
+Reference Blogs : 
+
+https://medium.com/@navyashree.raghupatro/recognizing-handwritten-digits-with-scikit-learn-8d248dc01b6d
+
+https://medium.com/@sharanya.mukherjee2019/recognizing-handwritten-digits-with-scikit-learn-d0700da58414
+
+blogs of intern at Suven :
+ 
+https://medium.com/@vaishudesai29/recognizing-handwritten-digits-with-scikit-learn-under-data-analytics-using-python-8433261322cb
+
+https://medium.com/@shivangp/recognizing-handwritten-digits-with-scikit-learn-fc0830689bcb
+
+MY BLOG:
+
+https://nikhilragha.medium.com/recognizing-handwritten-digits-with-scikit-learn-3fc4c12531b5
